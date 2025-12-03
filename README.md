@@ -18,7 +18,3 @@ Hi I'm Antonio Jimenez. Welcome to my GitHub profile! I'm currently studying Com
 ### 📫 How to reach me
 - LinkedIn: [www.linkedin.com/in/tony-jimenez2024]
 - Email: Mr.jimenez2013@gmail.com
--
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)
